@@ -1,0 +1,24 @@
+<<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarjeta de redes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="profile-card cute">
+    <img src="https://via.placeholder.com/100" alt="Yerika Marley Basto Rozo">
+    <h2>Yerika Marley Basto Rozo</h2>
+    <p>Cúcuta, Colombia</p>
+    <p class="bio">"Desarrolladora Backend Java "</p>
+    <a href="https://github.com/yerikamarley" class="social-button cute-button">GitHub</a>
+    <a href="https://flowcv.com/resume/phl9c6ipbn" class="social-button cute-button"> Hoja de Vida</a>
+    <a href="https://www.linkedin.com/in/yerika-marley-basto-rozo-605354150/" class="social-button cute-button">LinkedIn</a>
+    <a href="https://wa.link/zy0gxh" class="social-button cute-button"> Whatsaap</a>
+    <a href="https://www.instagram.com/fehu_frjya/" class="social-button cute-button">Instagram</a>
+</div>
+
+</body>
+</html>
